@@ -9,7 +9,7 @@
 - [x] 1.1.1 Go SDK 설치 및 환경 변수(`GOROOT`, `GOPATH`) 설정 (dir: GoBasic/Ex00)
 - [x] 1.1.2 `go mod`를 이용한 모듈 시스템 이해 (dir: GoBasic/Ex01)
 - [x] 1.1.3 Go 컴파일 과정 이해 (dir: GoBasic/Ex02)
-- [ ] 1.1.4 Hello World 작성 및 패키지(`package main`)의 역할 이해 (dir: basics_setup)
+- [x] 1.1.4 Hello World 작성 및 패키지(`package main`)의 역할 이해 (dir: GoBasic/Ex03)
 
 ### 1.2 변수, 상수 및 기본 타입 (Data Types & Syntax)
 - [ ] 1.2.1 변수 선언 방식 (`var`, `:=`, Short Variable Declaration) (dir: variables_args)
