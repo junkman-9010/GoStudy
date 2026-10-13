@@ -7,7 +7,7 @@
 
 ### 1.1 Go 환경 구성 및 워크스페이스 (Environment & Workspace)
 - [x] 1.1.1 Go SDK 설치 및 환경 변수(`GOROOT`, `GOPATH`) 설정 (dir: GoBasic/Ex00)
-- [ ] 1.1.2 `go mod`를 이용한 모듈 시스템 이해 (dir: basics_setup)
+- [x] 1.1.2 `go mod`를 이용한 모듈 시스템 이해 (dir: GoBasic/Ex01)
 - [ ] 1.1.3 Go 컴파일 과정 이해 (dir: basics_setup)
 - [ ] 1.1.4 Hello World 작성 및 패키지(`package main`)의 역할 이해 (dir: basics_setup)
 
