@@ -19,7 +19,7 @@ Go의 가장 강력한 특징 중 하나는 별도의 도구 설치 없이 환�
 
 - **핵러 메커니즘**: `GOOS`(대상 운영체제)와 `GOARCH`(대상 아키텍처) 환경 변수를 컴파일 시점에 전달합니다.
 - **실행 예시**:
-    - **Linux용 빌드 (AMD64)**: `GOOS=linux GOARCH=amd 64 go build -o build_linux`
+    - **Linux용 빌드 (AMD64)**: `GOOS=linux GOARCH=amd64 go build -o build_linux`
     - **Windows용 빌드 (AMD64)**: `GOOS=windows GOARCH=amd64 go build -o build_windows.exe`
 - **장점**: 개발자는 Linux 환경에서 작업하면서도, Windows나 macOS, 심지어 임베디드 ARM 기기에서 실행될 바이너리를 즉시 생성하여 배포할 수 있습니다.
 
