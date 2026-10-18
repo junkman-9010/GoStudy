@@ -13,7 +13,7 @@
 
 ### 1.2 변수, 상수 및 기본 타입 (Data Types & Syntax)
 - [x] 1.2.1 변수 선언 방식 (`var`, `:=`) (dir: GoBasic/Ex04)
-- [ ] 1.2.2 제로 값(Zero Values)의 개념과 중요성 (dir: variables_types)
+- [x] 1.2.2 제로 값(Zero Values)의 개념과 중요성 (dir: GoBasic/Ex05)
 - [ ] 1.2.3 기본 타입 마스터: `int`, `float64`, `string`, `bool` (dir: variables_types)
 - [ ] 1.2.4 상수(`const`) 및 `iota`를 이용한 자동 열거형 생성 (dir: variables_types)
 - [ ] 1.2.5 타입 변환(Type Conversion)과 명시적 형변환의 필요성 (dir: variables_types)
