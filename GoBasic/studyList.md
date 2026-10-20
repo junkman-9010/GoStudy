@@ -21,7 +21,7 @@
 ### 1.3 제어 흐름 (Control Flow)
 - [x] 1.3.1 조건문: `if` (조건부 실행), `else if`, `else` (dir: GoBasic/Ex09)
 - [x] 1.3.2 `switch` 문: 조건 기반 분기 및 `fallthrough` (dir: GoBasic/Ex10)
-- [ ] 1.3.3 `for` 루프: Go의 유일한 반복문 (dir: control_flow)
+- [x] 1.3.3 `for` 루프: Go의 유일한 반복문 (dir: GoBasic/Ex11)
 - [ ] 1.3.4 `defer` 키워드: 함수 종료 시 실행 보장 (dir: control_flow)
 
 ### 1.4 함수와 클로저 (Functions & Closures)
