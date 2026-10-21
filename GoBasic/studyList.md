@@ -25,7 +25,7 @@
 - [x] 1.3.4 `defer` 키워드: 함수 종료 시 실행 보장 (dir: GoBasic/Ex12)
 
 ### 1.4 함수와 클로저 (Functions & Closures)
-- [ ] 1.4.1 함수의 매개변수와 다중 반환값(Multiple Return Values) (dir: functions_methods)
+- [x] 1.4.1 함수의 매개변수와 다중 반환값(Multiple Return Values) (dir: GoBasic/Ex13)
 - [ ] 1.4.2 가변 인자 함수(Variadic Functions) 구현 (dir: functions_methods)
 - [ ] 1.4.3 익명 함수(Anonymous Functions)와 클로저(Closures)의 메모리 동작 (dir: functions_methods)
 - [ ] 1.4.4 함수 타입(First-class Functions)으로서의 특징 (dir: functions_methods)
