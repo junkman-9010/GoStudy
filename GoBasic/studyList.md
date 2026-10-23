@@ -31,7 +31,7 @@
 - [x] 1.4.4 함수 타입(First-class Functions)으로서의 특징 (dir: GoBasic/Ex16)
 
 ### 1.5 포인터와 메모리 기초 (Pointers & Memory)
-- [ ] 1.5.1 포인터 연산자: 주소 연산자(`&`)와 역참조 연산자(`*`) (dir: pointers_memory)
+- [x] 1.5.1 포인터 연산자: 주소 연산자(`&`)와 역참조 연산자(`*`) (dir: GoBasic/Ex17)
 - [ ] 1.5.2 포인터를 통한 값의 수정 및 메모리 주소 추적 (dir: pointers_memory)
 - [ ] 1.5.3 Nil 포인터와 안전한 메모리 접근법 (dir: pointers_memory)
 - [ ] 1.5.4 값 전달(Pass by Value) vs 참조 전달(Pass by Pointer)의 비용 비교 (dir: pointers_memory)
