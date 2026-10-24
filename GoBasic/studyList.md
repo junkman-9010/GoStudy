@@ -33,7 +33,7 @@
 ### 1.5 포인터와 메모리 기초 (Pointers & Memory)
 - [x] 1.5.1 포인터 연산자: 주소 연산자(`&`)와 역참조 연산자(`*`) (dir: GoBasic/Ex17)
 - [x] 1.5.2 포인터 조작 및 추적 (dir: GoBasic/Ex18)
-- [ ] 1.5.3 Nil 포인터와 안전한 메모리 접근법 (dir: pointers_memory)
+- [x] 1.5.3 Nil 포인터와 안전한 메모리 접근법 (dir: GoBasic/Ex19)
 - [ ] 1.5.4 값 전달(Pass by Value) vs 참조 전달(Pass by Pointer)의 비용 비교 (dir: pointers_memory)
 
 ### 1.6 구조체와 인터페이스 (Structs & Interfaces)
